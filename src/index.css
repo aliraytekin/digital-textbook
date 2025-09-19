@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ion-title {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #2a4d9b;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
